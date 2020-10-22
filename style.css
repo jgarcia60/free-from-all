@@ -174,7 +174,7 @@ body {
 #product-details {
   position: fixed;
   left: 50%;
-  transform: translate(-50%, 20%);
+  transform: translate(-50%, 3%);
   color: white;
   background-color: black;
   padding: 20px;
